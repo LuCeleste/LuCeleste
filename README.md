@@ -1,11 +1,11 @@
 <h1 align="right">Hola! Soy Luciana</h1>
 <h3 align="right">Front End Developer</h3>
 
- 🌱 I’m currently learning **React, Typescript**
+ 📚 I’m currently learning **React, Typescript**
  
  👨‍💻 All of my projects are available at [https://luceleste.github.io/portfolio/](https://luceleste.github.io/portfolio/)
  
- 📫 How to reach me **lucianaalonso@gmail.com**
+ ✉ How to reach me **lucianaalonso@gmail.com**
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
