@@ -5,7 +5,7 @@
  
  👨‍💻 All of my projects are available at [https://luceleste.github.io/portfolio/](https://luceleste.github.io/portfolio/)
  
- ✉ How to reach me **lucianaalonso@gmail.com**
+ ✉ How to reach me **lucianaalonso98@gmail.com**
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
